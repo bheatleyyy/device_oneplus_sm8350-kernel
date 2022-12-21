@@ -15,7 +15,6 @@
 /vendor_dlkm/lib/modules/fc0012.ko:
 /vendor_dlkm/lib/modules/tua9001.ko:
 /vendor_dlkm/lib/modules/it913x.ko:
-/vendor_dlkm/lib/modules/hid-aksys.ko:
 /vendor_dlkm/lib/modules/platform_dlkm.ko: /vendor_dlkm/lib/modules/q6_dlkm.ko /vendor_dlkm/lib/modules/apr_dlkm.ko /vendor_dlkm/lib/modules/q6_notifier_dlkm.ko /vendor_dlkm/lib/modules/q6_pdr_dlkm.ko /vendor_dlkm/lib/modules/snd_event_dlkm.ko
 /vendor_dlkm/lib/modules/swr_ctrl_dlkm.ko: /vendor_dlkm/lib/modules/swr_dlkm.ko /vendor_dlkm/lib/modules/q6_dlkm.ko /vendor_dlkm/lib/modules/apr_dlkm.ko /vendor_dlkm/lib/modules/q6_notifier_dlkm.ko /vendor_dlkm/lib/modules/q6_pdr_dlkm.ko /vendor_dlkm/lib/modules/snd_event_dlkm.ko
 /vendor_dlkm/lib/modules/mxl5005s.ko:
@@ -33,7 +32,6 @@
 /vendor_dlkm/lib/modules/stub_dlkm.ko:
 /vendor_dlkm/lib/modules/rmnet_ctl.ko:
 /vendor_dlkm/lib/modules/xc4000.ko:
-/vendor_dlkm/lib/modules/rdbg.ko:
 /vendor_dlkm/lib/modules/tuner-xc2028.ko:
 /vendor_dlkm/lib/modules/wsa_macro_dlkm.ko: /vendor_dlkm/lib/modules/swr_ctrl_dlkm.ko /vendor_dlkm/lib/modules/bolero_cdc_dlkm.ko /vendor_dlkm/lib/modules/swr_dlkm.ko /vendor_dlkm/lib/modules/wcd_core_dlkm.ko /vendor_dlkm/lib/modules/q6_dlkm.ko /vendor_dlkm/lib/modules/apr_dlkm.ko /vendor_dlkm/lib/modules/q6_notifier_dlkm.ko /vendor_dlkm/lib/modules/q6_pdr_dlkm.ko /vendor_dlkm/lib/modules/snd_event_dlkm.ko
 /vendor_dlkm/lib/modules/mt20xx.ko:
@@ -52,11 +50,9 @@
 /vendor_dlkm/lib/modules/apr_dlkm.ko: /vendor_dlkm/lib/modules/q6_notifier_dlkm.ko /vendor_dlkm/lib/modules/q6_pdr_dlkm.ko /vendor_dlkm/lib/modules/snd_event_dlkm.ko
 /vendor_dlkm/lib/modules/e4000.ko:
 /vendor_dlkm/lib/modules/snd_event_dlkm.ko:
-/vendor_dlkm/lib/modules/qcom_edac.ko:
 /vendor_dlkm/lib/modules/qca_cld3_wlan.ko:
 /vendor_dlkm/lib/modules/tda9887.ko:
 /vendor_dlkm/lib/modules/machine_dlkm.ko: /vendor_dlkm/lib/modules/wsa883x_dlkm.ko /vendor_dlkm/lib/modules/wcd937x_dlkm.ko /vendor_dlkm/lib/modules/bolero_cdc_dlkm.ko /vendor_dlkm/lib/modules/wcd938x_dlkm.ko /vendor_dlkm/lib/modules/mbhc_dlkm.ko /vendor_dlkm/lib/modules/wcd9xxx_dlkm.ko /vendor_dlkm/lib/modules/swr_dlkm.ko /vendor_dlkm/lib/modules/wcd_core_dlkm.ko /vendor_dlkm/lib/modules/q6_dlkm.ko /vendor_dlkm/lib/modules/apr_dlkm.ko /vendor_dlkm/lib/modules/q6_notifier_dlkm.ko /vendor_dlkm/lib/modules/q6_pdr_dlkm.ko /vendor_dlkm/lib/modules/snd_event_dlkm.ko
-/vendor_dlkm/lib/modules/msm_drm.ko:
 /vendor_dlkm/lib/modules/swr_dlkm.ko:
 /vendor_dlkm/lib/modules/slimbus.ko:
 /vendor_dlkm/lib/modules/tda18212.ko:
